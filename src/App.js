@@ -3,10 +3,6 @@ import Header from "./component/header";
 import List from "./component/list";
 import Fotter from "./component/fotter";
 import React, { Component } from 'react';
-  
-
-
-
 class App extends Component {
   state = {
     todoList:[
@@ -16,7 +12,7 @@ class App extends Component {
         done:false,
       },
       {
-        id:'002',
+        id:'00221312213123',
         thing:'吃饭2',
         done:true,
       },
