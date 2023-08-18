@@ -12,7 +12,7 @@ class App extends Component {
         done:false,
       },
       {
-        id:'00221312213123',
+        id:'00',
         thing:'吃饭2',
         done:true,
       },
